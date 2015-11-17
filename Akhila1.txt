@@ -7,3 +7,6 @@ am going to change it
 
 use "git diff" to see teh difference between the Staging area and working dirctory.
 Change the files, do "git add" to add to stage. Then change teh files again before commit and see them using "git diff"
+
+1. 1.5 cup chana dal, 1 cup urad dal, groundnuts, mirchi, hing, til, 
+2. sambhar powder - 25-30 mirchi, 1 cup dhaniya, 1 tsp pepper, 1 tsp methi, 2 tsp daal, 2tsp haldi powder
