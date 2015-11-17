@@ -1,0 +1,6 @@
+am going to change it
+1. git clone repname
+2. edit files or add files (git add finename or git add .)
+3. then do git commit
+4. git push
+5. will it go into GIT commit???
