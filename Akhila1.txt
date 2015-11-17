@@ -4,3 +4,6 @@ am going to change it
 3. then do git commit
 4. git push
 5. will it go into GIT commit???
+
+use "git diff" to see teh difference between the Staging area and working dirctory.
+Change the files, do "git add" to add to stage. Then change teh files again before commit and see them using "git diff"
